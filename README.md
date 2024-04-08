@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @NagababuKollu
-- 👀 I’m interested in mobile technologies
-- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on different tech groups
 - 📫 How to reach me linkin --> https://www.linkedin.com/in/nagababu-k-b9214a76
